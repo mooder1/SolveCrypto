@@ -1,0 +1,8 @@
+factordb-python>=1.0.0
+pycryptodome>=3.19.0
+gmpy2>=2.1.5
+click>=8.1.0
+colorama>=0.4.6
+rich>=13.7.0
+sympy>=1.12
+requests>=2.31.0
